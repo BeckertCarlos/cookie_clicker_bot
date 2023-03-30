@@ -1,5 +1,3 @@
-
-![cookie-clicker.png](cookie-clicker.png)
 # Cookie Clicker Bot
 
 
